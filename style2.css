@@ -48,7 +48,7 @@ color: white;
 }
 input[type=text], input[type=password] {
     box-sizing: border-box;
-  
+    color: white;
     width: 769px;
     height: 35px; 
     
