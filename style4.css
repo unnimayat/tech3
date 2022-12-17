@@ -1,0 +1,77 @@
+.one{
+    width: 250%;
+    height: 50rem;
+    background-color: black;
+}
+.two{ 
+    background: linear-gradient(179.56deg, #F3C10E -26.72%, #000000 99.62%);
+    width: 100%;
+    height: 50rem;
+}
+.bo{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+.neural{
+    margin-top: 3rem;
+    margin-left: 3rem;
+   
+    width: 298px;
+    height: 78px; 
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+.h{ 
+width: 209px;
+height: 24px; 
+margin-left: 3rem;
+   
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #CACACA;
+
+
+}
+.c{ 
+width: 98px;
+height: 24px;
+margin-left: 3rem; 
+margin-top: 2rem;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.d{
+    width: 209px;
+height: 24px; 
+margin-left: 3rem;
+   
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #CACACA;
+
+margin-top: -0.2rem;
+}
