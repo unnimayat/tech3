@@ -12,6 +12,7 @@
 }
 .email{ 
 
+    color: white;
     box-sizing: border-box;
  
     width: 384px;
@@ -26,6 +27,7 @@
 }
 .password{ 
 
+    color: white;
     box-sizing: border-box;
  
     width: 384px;
